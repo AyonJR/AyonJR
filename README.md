@@ -27,7 +27,11 @@
 </p>
 
 <h3 align="center">Daily Streak:</h3>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayonjr&" alt="ayonjr" /></p>
+<p align="center">
+<div align="center" style="background-color: #3498db; padding: 10px; border-radius: 5px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayonjr" alt="ayonjr" style="color: white;" />
+</div>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -56,8 +60,9 @@
 
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayonjr&show_icons=true&locale=en&layout=compact" alt="ayonjr" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayonjr&show_icons=true&locale=en&layout=compact&bg_color=ffffff&title_color=3498db&text_color=ff4757" alt="ayonjr" />
 </p>
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayonjr&show_icons=true&locale=en" alt="ayonjr" />
 </p>
