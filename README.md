@@ -1,5 +1,5 @@
 <!-- Animated Gradient Background Header with SVG Particles -->
-![logo](https://i.ibb.co/Sn1WwcJ/Neon-Modern-Futuristic-Simple-Gaming-You-Tube-Banner.png)
+![logo](https://github.com/AyonJR/AyonJR/blob/main/Github%20Banner.png)
 
 <!-- Typewriter animation with gradient text -->
 <h1 align="center">
