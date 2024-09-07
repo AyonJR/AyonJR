@@ -1,7 +1,5 @@
 <!-- Animated Gradient Background Header with SVG Particles -->
-<p align="center">
-  <img src="https://i.ibb.co/Sn1WwcJ/Neon-Modern-Futuristic-Simple-Gaming-You-Tube-Banner.png" alt="MasterHead" width="100%"/>
-</p>
+![logo](https://i.ibb.co/Sn1WwcJ/Neon-Modern-Futuristic-Simple-Gaming-You-Tube-Banner.png)
 
 <!-- Typewriter animation with gradient text -->
 <h1 align="center">
