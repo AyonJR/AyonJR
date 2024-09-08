@@ -60,21 +60,28 @@
 
 ---
 
-<!-- GitHub Stats with Zoom In Effect -->
-<h3 align="center">🔥 GitHub Stats:</h3>
+<!-- GitHub Stats with Zoom In and Gradient Effect -->
+<h3 align="center" style="background: linear-gradient(90deg, #00c6ff, #00ff6a); -webkit-background-clip: text; color: transparent;">
+  🔥 GitHub Stats:
+</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayonjr&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" width="500px" style="animation: zoomIn 2s;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayonjr&show_icons=true&theme=radical&hide_title=true" 
+       alt="GitHub Stats" width="500px" style="border-radius: 15px; background: linear-gradient(90deg, #00c6ff, #00ff6a); padding: 10px; transform: scale(1); transition: transform 0.5s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayonjr&theme=radical" alt="GitHub Streak" width="500px" style="animation: zoomIn 2s;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayonjr&theme=radical" 
+       alt="GitHub Streak" width="500px" style="border-radius: 15px; background: linear-gradient(90deg, #00c6ff, #00ff6a); padding: 10px; transform: scale(1); transition: transform 0.5s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
 </p>
 
 ---
 
-<!-- GitHub Achievements Section with Rotate Animation -->
-<h3 align="center">🏆 Achievements:</h3>
+<!-- GitHub Achievements Section with Rotate Animation and Gradient -->
+<h3 align="center" style="background: linear-gradient(90deg, #00c6ff, #00ff6a); -webkit-background-clip: text; color: transparent;">
+  🏆 Achievements:
+</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayonjr&theme=dracula&margin-w=15" alt="GitHub Trophy" style="animation: rotateIn 2s;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ayonjr&theme=dracula&margin-w=15" 
+       alt="GitHub Trophy" style="border-radius: 15px; background: linear-gradient(90deg, #00c6ff, #00ff6a); padding: 10px; transform: rotate(0deg); transition: transform 0.5s ease-in-out;" onmouseover="this.style.transform='rotate(360deg)';" onmouseout="this.style.transform='rotate(0deg)';" />
 </p>
 
 ---
